@@ -1,4 +1,4 @@
 # InfUniri-Network-Analysis
-Usporedba mreže suradništva Odjela za informatiku i Građevinskog fakulteta u Rijeci.
+Comparison of network collaboration between the Department of Informatics and the Faculty of Civil Engineering in Rijeka.
 
-gfri_oi.py preuzima podatke o autorima i znanstvenim radovima te na temelju njih konstruira grafove, dok ostale dvije skripte analiziraju navedene grafove.
+gfri_oi.py retrieves data about authors and known works on which they have constructed graphs, while the other two scripts analyze the graphs listed.
